@@ -21,7 +21,7 @@ const config = {
     AutoUpdate          : 'off', // on atau off
     API_KEY             : '05501b702e2deb881646ba79', // APIKEY ANDA AMBIL DI autoresbot.com
     GEMINI_API_KEY      : 'AIzaSyC2x25azDmKxB42kORMznWoebrTwKLcwkc', // https://youtu.be/02oGg3-3a-s?si=9WhaVsLyfc6B-YYI
-    phone_number_bot    : '6285602489033', // Nomor BOT
+    phone_number_bot    : '6285727264161', // Nomor BOT
     imgbb_api_key       : 'fe81f7e350e126dbb8897d7dd4670a99',
     PTERO_DOMAIN        : '',
     PTERO_API_KEY       : '',
